@@ -2,14 +2,17 @@
 收集公版英文名著，通过 bilingual_book_maker 生成中英双语对照 EPUB，用于英语学习。
 
 ## 📖 书籍清单
-- Pride and Prejudice 《傲慢与偏见》
+Pride and Prejudice 《傲慢与偏见》
+
 a-tale-of-two-cities bilingual 
+
 追忆流水似年
+
 欧亨利短片小说集
-- 
+
 a-tale-of-two-cities bilingual
 
-- 后续持续更新
+后续持续更新
 
 ## ⚠️ 版权声明
 本仓库仅存放**公版文学作品**（作者逝世超过50年），仅供个人学习交流。
